@@ -9,6 +9,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.0.3"
+    "@astrojs/rss": "^4.0.10",
+    "astro": "^5.0.3",
+    "decap-cms-app": "^3.4.0"
   }
 }
